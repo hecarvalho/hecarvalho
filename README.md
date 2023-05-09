@@ -1,7 +1,8 @@
 ### Olá me chamo Henrique
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hecarvalho&show_icons=true&theme=great-gatsby)](https://github.com/hecarvalho/github-readme-stats)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hecarvalho&langs_count=8)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hecarvalho&show_icons=true&theme=midnight-purple)](https://github.com/hecarvalho/github-readme-stats)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hecarvalho&langs_count=8&theme=midnight-purple)
+<img align="right" alt="asta" height="300" style="border-radius:0px;" src="https://media.tenor.com/RkbwKLT5xkwAAAAC/black-clover-yami.gif">
 
 - Front-end
 - HTML CSS JS TS REACT 
@@ -12,7 +13,6 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="asta" height="150" style="border-radius:50px;" src="https://media.tenor.com/GxvAgbLysa8AAAAC/black-clover.gif">
 </div>
   
   ##
