@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hecarvalho&show_icons=true&theme=midnight-purple)](https://github.com/hecarvalho/github-readme-stats)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hecarvalho&langs_count=8&theme=midnight-purple)
-<img align="right" alt="asta" height="300" style="border-radius:0px;" src="https://media.tenor.com/RkbwKLT5xkwAAAAC/black-clover-yami.gif">
+<img align="right" alt="asta" height="200" style="border-radius:0px;" src="https://media.tenor.com/RkbwKLT5xkwAAAAC/black-clover-yami.gif">
 
 - Front-end
 - HTML CSS JS TS REACT 
