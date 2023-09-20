@@ -5,7 +5,7 @@
 </div>
 
 <div>
-<img align="right" alt="asta" height="250" style="border-radius:0px;" src="https://media.tenor.com/RkbwKLT5xkwAAAAC/black-clover-yami.gif">
+<img align="right" alt="asta" height="200" style="border-radius:0px;" src="https://media.tenor.com/RkbwKLT5xkwAAAAC/black-clover-yami.gif">
 </div>
 
 <div align="left">
