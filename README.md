@@ -1,12 +1,30 @@
 ### Olá me chamo Henrique
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hecarvalho&show_icons=true&theme=midnight-purple)](https://github.com/hecarvalho/github-readme-stats)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hecarvalho&langs_count=8&theme=midnight-purple)
-<img align="right" alt="asta" height="200" style="border-radius:0px;" src="https://media.tenor.com/RkbwKLT5xkwAAAAC/black-clover-yami.gif">
+<div>
+  <img align="center" alt="asta" height="1" width="1000" style="border-radius:0px;" src="https://64.media.tumblr.com/9450765e9b44d4f9a6e93ccf8ccdff61/4fc0a3bbcd7fccb8-3c/s400x600/021c7745f96e33b1027c244c5ea017e14d9af23b.gif">
+</div>
+
+<div>
+<img align="right" alt="asta" height="250" style="border-radius:0px;" src="https://media.tenor.com/RkbwKLT5xkwAAAAC/black-clover-yami.gif">
+</div>
+
+<div align="left">
+<a href="https://github.com/gabriel1ferreira">
+  <img height="180em" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hecarvalho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <br>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hecarvalho&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+
 
 - Front-end
 - HTML CSS JS TS REACT 
 
+<div>
+  <img align="center" alt="asta" height="1" width="1000" style="border-radius:0px;" src="https://64.media.tumblr.com/9450765e9b44d4f9a6e93ccf8ccdff61/4fc0a3bbcd7fccb8-3c/s400x600/021c7745f96e33b1027c244c5ea017e14d9af23b.gif">
+</div>
+
+
+<div align="center">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
