@@ -9,7 +9,7 @@
 </div>
 
 <div align="left">
-<a href="https://github.com/gabriel1ferreira">
+<a href="https://github.com/hecarvalho">
   <img height="180em" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hecarvalho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <br>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hecarvalho&layout=compact&langs_count=7&theme=midnight-purple"/>
