@@ -1,4 +1,4 @@
-### Olá me chamo Henrique
+### Olá me chamo Henrique e estou aprendendo sobre Front End
 
 <div>
   <img align="center" alt="asta" height="1" width="1000" style="border-radius:0px;" src="https://64.media.tumblr.com/9450765e9b44d4f9a6e93ccf8ccdff61/4fc0a3bbcd7fccb8-3c/s400x600/021c7745f96e33b1027c244c5ea017e14d9af23b.gif">
@@ -35,10 +35,9 @@
   
   ##
  
-<div>
+<div align="center">
   <a href = "mailto:hbarbosacarvalho2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-barbosa-74400815b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
-![snake gif](https://github.com/hecarvalho/hecarvalho/blob/output/github-contribution-grid-snake.svg)
