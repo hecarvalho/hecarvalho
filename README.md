@@ -28,17 +28,36 @@ Meus trabalhos atuais passam por **sistemas de gestão, landing pages, editores 
 - **Ferramentas de prospecção:** busca de negócios locais, filtros, mapas e acompanhamento de contatos.
 - **Interfaces esportivas:** componentes, cards analíticos e recursos visuais para o Além das Quatro Linhas.
 
-## Tecnologias nos meus projetos
+## Stack atual
 
-| Área | Tecnologias |
-| --- | --- |
-| Interfaces | HTML, CSS, JavaScript, TypeScript, React, Next.js e Tailwind CSS |
-| APIs e automação | Node.js e Python |
-| Dados e persistência | SQL, Cloudflare D1, Drizzle ORM e Supabase |
-| Animação e conteúdo visual | GSAP e Remotion |
-| Desenvolvimento e publicação | Git, GitHub, Cloudflare Workers e Vercel |
+<div>
+  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" title="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="HTML5" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Tailwind CSS" title="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Node.js" title="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Supabase" title="Supabase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
+  <img align="center" alt="Cloudflare" title="Cloudflare" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg">
+  <img align="center" alt="Vercel" title="Vercel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
+  <img align="center" alt="Git" title="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" title="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
+
+<br>
+
+**Interfaces:** HTML, CSS, JavaScript, TypeScript, React, Next.js e Tailwind CSS.  
+**APIs e automação:** Node.js e Python.  
+**Dados:** SQL, Cloudflare D1, Drizzle ORM e Supabase.  
+**Animação:** GSAP e Remotion.  
+**Desenvolvimento e publicação:** Git, GitHub, Cloudflare Workers e Vercel.
 
 Uso essas tecnologias conforme a necessidade de cada projeto, aprofundando os estudos durante o desenvolvimento.
+
+---
 
 ## Projeto público em destaque
 
